@@ -22,6 +22,7 @@ I'm a passionate developer currently studying Python and exploring the world of 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anisiabarros&hide_progress=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anisiabarros&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anisiabarros&theme=tokyonight)
 
 
 
