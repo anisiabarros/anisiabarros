@@ -29,6 +29,4 @@ I'm a passionate developer currently studying Python and exploring the world of 
 
   ![Snake animation](https://github.com/anisiabarros/anisiabarros/blob/output/github-contribution-grid-snake.svg)
 
-  - name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v2.2.1
 
