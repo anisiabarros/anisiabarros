@@ -26,6 +26,7 @@ I'm a passionate developer currently studying Python and exploring the world of 
 
 
 
+![Snake animation](https://raw.githubusercontent.com/anisiabarros/anisiabarros/output/github-contribution-grid-snake.svg)
 
   ![Snake animation](https://github.com/anisiabarros/anisiabarros/blob/output/github-contribution-grid-snake.svg)
 
