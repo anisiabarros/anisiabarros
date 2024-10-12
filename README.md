@@ -3,7 +3,7 @@
 I'm a passionate developer currently studying Python and exploring the world of backend development. I have a solid understanding of HTML5, CSS, and JavaScript.
 
 🌱 I’m currently learning:
-- Python to strengthen my backend development skills.
+- Python to strengthen my data science skills.
 
 💬 Ask me about:
 - HTML5, CSS, JavaScript, and Python.
@@ -26,7 +26,7 @@ I'm a passionate developer currently studying Python and exploring the world of 
 
 
 
-![Snake animation](https://raw.githubusercontent.com/anisiabarros/anisiabarros/output/github-contribution-grid-snake.svg)
+
 
  
 
